@@ -1,0 +1,172 @@
+Podsumowanie,Klucz zgłoszenia,Id. zgłoszenia,Nadrzędny id.,Typ zgłoszenia,Status,Klucz projektu,Nazwa projektu,Typ projektu,Lider projektu,Id lidera projektu,Opis projektu,Priorytet,Rozwiązanie,Osoba przypisana,ID osoby przypisanej,Osoba zgłaszająca,ID osoby zgłaszającej,Twórca,ID twórcy,Utworzono,Zaktualizowano,Ostatnio wyświetlane,Rozwiązane,Termin,Głosy,Opis,Środowisko,Obserwujący,ID obserwujących,Pierwotne oszacowanie,Pozostały koszt,Czas poświęcony,Stosunek pracy,Σ Pierwotne oszacowanie,Σ Pozostały koszt,Σ Czas poświęcony,Poziom zabezpieczeń,Inward issue link (Blocks),Zewnętrzne łącze do zgłoszenia (Blocks),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Zewnętrzne łącze do zgłoszenia (Cloners),Inward issue link (Relates),Zewnętrzne łącze do zgłoszenia (Relates),Załącznik,Pole niestandardowe (Actual end),Pole niestandardowe (Actual start),Pole niestandardowe (Affected services),Pole niestandardowe (Begin Date),Pole niestandardowe (Change reason),Pole niestandardowe (Change risk),Pole niestandardowe (Change type),Pole niestandardowe (Development),Pole niestandardowe (End Date),Pole niestandardowe (Epic Color),Pole niestandardowe (Epic Link),Pole niestandardowe (Epic Name),Pole niestandardowe (Epic Status),Pole niestandardowe (Impact),Pole niestandardowe (Issue color),Pole niestandardowe (Locked forms),Pole niestandardowe (Open forms),Pole niestandardowe (RTM Environment),Pole niestandardowe (Rank),Pole niestandardowe (Request Type),Pole niestandardowe (Request language),Pole niestandardowe (Request participants),Pole niestandardowe (Revision),Ocena zadowolenia,Pole niestandardowe (Start date),Pole niestandardowe (Story Points),Pole niestandardowe (Story point estimate),Pole niestandardowe (Submitted forms),Pole niestandardowe (Target end),Pole niestandardowe (Target start),Pole niestandardowe (Team),Pole niestandardowe (Total forms),Pole niestandardowe ([CHART] Date of First Response),Komentarz,Kategoria statusu,Nadrzędny,Parent summary
+Brak możliwości wykonania zadania nr 14.,PRJKT99-27,10037,,Błąd w programie,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,Highest,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,20/lip/22 8:18 AM,21/lip/22 1:50 PM,21/lip/22 3:21 PM,,,0,Brak pliku .CSV wymaganego do wykonania zadania.,"System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).",DarekK,62d14ea5c537f460d445f850,,,,,,,,,,PRJKT99-16,,,,,,,,,,,,,,,,,,,,,,,,,,,20/lip/22 8:17 AM;62d14ea5c537f460d445f850;TestSession14.test;https://projektkoncowy102.atlassian.net/secure/attachment/10025/TestSession14.test,,,,,,,,,,,,,,,,,,,0|i00087:,,,,,,,,,,,,,,,21/lip/22 1:50 PM;62d14ea5c537f460d445f850;Zalecenie: zaimplementować wymagany plik .CSV aby umożliwić przeprowadzenie re-testu.,Gotowe,,
+Ilość defektów w zadaniu 24 - 1,PRJKT99-26,10036,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:25 AM,18/lip/22 1:12 PM,20/lip/22 2:20 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 24.|Uruchomienie zadania nr 24.|
+|2.|Wykonanie polecenia z zadania nr 24.|Znalezienie dokładnie jednego defektu w zadaniu nr 24.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,18/lip/22 1:05 PM;62d14ea5c537f460d445f850;TestSession24.test;https://projektkoncowy102.atlassian.net/secure/attachment/10021/TestSession24.test,,,,,,,,,,,,,,,,,,,0|i0007z:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 23 - 1,PRJKT99-25,10035,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:25 AM,19/lip/22 12:17 PM,19/lip/22 12:10 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 23.|Uruchomienie zadania nr 23.|
+|2.|Wykonanie polecenia z zadania nr 23.|Znalezienie dokładnie jednego defektu w zadaniu nr 23.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,19/lip/22 12:17 PM;62d14ea5c537f460d445f850;TestSession23.test;https://projektkoncowy102.atlassian.net/secure/attachment/10023/TestSession23.test,,,,,,,,,,,,,,,,,,,0|i0007r:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 22 - 1,PRJKT99-24,10034,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:24 AM,18/lip/22 1:12 PM,18/lip/22 1:01 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 22.|Uruchomienie zadania nr 22.|
+|2.|Wykonanie polecenia z zadania nr 22.|Znalezienie dokładnie jednego defektu w zadaniu nr 22.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,18/lip/22 1:04 PM;62d14ea5c537f460d445f850;TestSession22.test;https://projektkoncowy102.atlassian.net/secure/attachment/10020/TestSession22.test,,,,,,,,,,,,,,,,,,,0|i0007j:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 21 - 1,PRJKT99-23,10033,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:24 AM,18/lip/22 1:12 PM,18/lip/22 1:10 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 21.|Uruchomienie zadania nr 21.|
+|2.|Wykonanie polecenia z zadania nr 21.|Znalezienie dokładnie jednego defektu w zadaniu nr 21.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,18/lip/22 1:01 PM;62d14ea5c537f460d445f850;TestSession21.test;https://projektkoncowy102.atlassian.net/secure/attachment/10019/TestSession21.test,,,,,,,,,,,,,,,,,,,0|i0007b:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 20 - 1,PRJKT99-22,10032,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:24 AM,18/lip/22 1:12 PM,18/lip/22 12:59 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 20.|Uruchomienie zadania nr 20.|
+|2.|Wykonanie polecenia z zadania nr 20.|Znalezienie dokładnie jednego defektu w zadaniu nr 20.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,18/lip/22 12:59 PM;62d14ea5c537f460d445f850;TestSession20.test;https://projektkoncowy102.atlassian.net/secure/attachment/10018/TestSession20.test,,,,,,,,,,,,,,,,,,,0|i00073:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 19 - 1,PRJKT99-21,10031,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:24 AM,18/lip/22 1:12 PM,18/lip/22 12:57 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 19.|Uruchomienie zadania nr 19.|
+|2.|Wykonanie polecenia z zadania nr 19.|Znalezienie dokładnie jednego defektu w zadaniu nr 19.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,18/lip/22 12:58 PM;62d14ea5c537f460d445f850;TestSession19.test;https://projektkoncowy102.atlassian.net/secure/attachment/10017/TestSession19.test,,,,,,,,,,,,,,,,,,,0|i0006v:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 18 - 1,PRJKT99-20,10030,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:23 AM,18/lip/22 1:12 PM,18/lip/22 12:54 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 18.|Uruchomienie zadania nr 18.|
+|2.|Wykonanie polecenia z zadania nr 18.|Znalezienie dokładnie jednego defektu w zadaniu nr 18.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,18/lip/22 12:56 PM;62d14ea5c537f460d445f850;TestSession18.test;https://projektkoncowy102.atlassian.net/secure/attachment/10016/TestSession18.test,,,,,,,,,,,,,,,,,,,0|i0006n:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 17 - 1,PRJKT99-19,10029,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:23 AM,18/lip/22 1:12 PM,18/lip/22 1:09 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 17.|Uruchomienie zadania nr 17.|
+|2.|Wykonanie polecenia z zadania nr 17.|Znalezienie dokładnie jednego defektu w zadaniu nr 17.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,18/lip/22 12:54 PM;62d14ea5c537f460d445f850;TestSession17.test;https://projektkoncowy102.atlassian.net/secure/attachment/10015/TestSession17.test,,,,,,,,,,,,,,,,,,,0|i0006f:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 16 - 1,PRJKT99-18,10028,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:23 AM,18/lip/22 1:12 PM,18/lip/22 12:52 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 16.|Uruchomienie zadania nr 16.|
+|2.|Wykonanie polecenia z zadania nr 16.|Znalezienie dokładnie jednego defektu w zadaniu nr 16.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,18/lip/22 12:53 PM;62d14ea5c537f460d445f850;TestSession16.test;https://projektkoncowy102.atlassian.net/secure/attachment/10014/TestSession16.test,,,,,,,,,,,,,,,,,,,0|i00067:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 15 - 1,PRJKT99-17,10027,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:23 AM,18/lip/22 1:12 PM,18/lip/22 1:08 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 15.|Uruchomienie zadania nr 15.|
+|2.|Wykonanie polecenia z zadania nr 15.|Znalezienie dokładnie jednego defektu w zadaniu nr 15.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,18/lip/22 12:51 PM;62d14ea5c537f460d445f850;TestSession15.test;https://projektkoncowy102.atlassian.net/secure/attachment/10012/TestSession15.test,,,,,,,,,,,,,,,,,,,0|i0005z:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 14 - 1,PRJKT99-16,10026,10012,Przypadek Testowy,Blocked,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:23 AM,20/lip/22 8:23 AM,21/lip/22 3:22 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 14.|Uruchomienie zadania nr 14.|
+|2.|Wykonanie polecenia z zadania nr 14.|Znalezienie dokładnie jednego defektu w zadaniu nr 14.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,PRJKT99-27,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,19/lip/22 12:22 PM;62d14ea5c537f460d445f850;TestSession14.test;https://projektkoncowy102.atlassian.net/secure/attachment/10024/TestSession14.test,,,,,,,,,,,,,,,,,,,0|i0005r:,,,,,,,,,,,,,,,20/lip/22 8:10 AM;62d14ea5c537f460d445f850;Brak pliku .CSV wymaganego do wykonania zadania.,W toku,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 13 - 1,PRJKT99-15,10025,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:22 AM,18/lip/22 1:12 PM,18/lip/22 12:43 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 13.|Uruchomienie zadania nr 13.|
+|2.|Wykonanie polecenia z zadania nr 13.|Znalezienie dokładnie jednego defektu w zadaniu nr 13.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,18/lip/22 12:48 PM;62d14ea5c537f460d445f850;TestSession13.test;https://projektkoncowy102.atlassian.net/secure/attachment/10011/TestSession13.test,,,,,,,,,,,,,,,,,,,0|i0005j:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 12 - 1,PRJKT99-14,10024,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:22 AM,18/lip/22 1:12 PM,18/lip/22 12:43 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 12.|Uruchomienie zadania nr 12.|
+|2.|Wykonanie polecenia z zadania nr 12.|Znalezienie dokładnie jednego defektu w zadaniu nr 12.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,18/lip/22 12:43 PM;62d14ea5c537f460d445f850;TestSession12.test;https://projektkoncowy102.atlassian.net/secure/attachment/10010/TestSession12.test,,,,,,,,,,,,,,,,,,,0|i0005b:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 11 - 1,PRJKT99-13,10023,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:22 AM,18/lip/22 1:12 PM,18/lip/22 12:40 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 11.|Uruchomienie zadania nr 11.|
+|2.|Wykonanie polecenia z zadania nr 11.|Znalezienie dokładnie jednego defektu w zadaniu nr 11.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,18/lip/22 12:42 PM;62d14ea5c537f460d445f850;TestSession11.test;https://projektkoncowy102.atlassian.net/secure/attachment/10009/TestSession11.test,,,,,,,,,,,,,,,,,,,0|i00053:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 10 - 1,PRJKT99-12,10022,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:22 AM,19/lip/22 12:10 PM,19/lip/22 12:10 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 10.|Uruchomienie zadania nr 10.|
+|2.|Wykonanie polecenia z zadania nr 10.|Znalezienie dokładnie jednego defektu w zadaniu nr 10.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,19/lip/22 12:10 PM;62d14ea5c537f460d445f850;TestSession10.test;https://projektkoncowy102.atlassian.net/secure/attachment/10022/TestSession10.test,,,,,,,,,,,,,,,,,,,0|i0004v:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 9 - 1,PRJKT99-11,10021,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:22 AM,18/lip/22 1:11 PM,18/lip/22 12:39 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 9.|Uruchomienie zadania nr 9.|
+|2.|Wykonanie polecenia z zadania nr 9.|Znalezienie dokładnie jednego defektu w zadaniu nr 9.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,18/lip/22 12:40 PM;62d14ea5c537f460d445f850;TestSession9.test;https://projektkoncowy102.atlassian.net/secure/attachment/10008/TestSession9.test,,,,,,,,,,,,,,,,,,,0|i0004n:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 8 - 1,PRJKT99-10,10020,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:21 AM,18/lip/22 1:11 PM,18/lip/22 1:07 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 8.|Uruchomienie zadania nr 8.|
+|2.|Wykonanie polecenia z zadania nr 8.|Znalezienie dokładnie jednego defektu w zadaniu nr 8.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,18/lip/22 12:39 PM;62d14ea5c537f460d445f850;TestSession8.test;https://projektkoncowy102.atlassian.net/secure/attachment/10007/TestSession8.test,,,,,,,,,,,,,,,,,,,0|i0004f:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 7 - 1,PRJKT99-9,10019,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:21 AM,18/lip/22 1:11 PM,18/lip/22 12:35 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 7.|Uruchomienie zadania nr 7.|
+|2.|Wykonanie polecenia z zadania nr 7.|Znalezienie dokładnie jednego defektu w zadaniu nr 7.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,18/lip/22 12:36 PM;62d14ea5c537f460d445f850;TestSession7.test;https://projektkoncowy102.atlassian.net/secure/attachment/10006/TestSession7.test,,,,,,,,,,,,,,,,,,,0|i00047:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 6 - 1,PRJKT99-8,10018,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:21 AM,18/lip/22 1:11 PM,18/lip/22 12:34 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 6.|Uruchomienie zadania nr 6.|
+|2.|Wykonanie polecenia z zadania nr 6.|Znalezienie dokładnie jednego defektu w zadaniu nr 6.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,18/lip/22 12:34 PM;62d14ea5c537f460d445f850;TestSession6.test;https://projektkoncowy102.atlassian.net/secure/attachment/10005/TestSession6.test,,,,,,,,,,,,,,,,,,,0|i0003z:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 5 - 1,PRJKT99-7,10017,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:21 AM,18/lip/22 1:11 PM,19/lip/22 9:48 AM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 5.|Uruchomienie zadania nr 5.|
+|2.|Wykonanie polecenia z zadania nr 5.|Znalezienie dokładnie jednego defektu w zadaniu nr 5.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,18/lip/22 12:24 PM;62d14ea5c537f460d445f850;TestSession5.test;https://projektkoncowy102.atlassian.net/secure/attachment/10004/TestSession5.test,,,,,,,,,,,,,,,,,,,0|i0003r:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 4 - 1,PRJKT99-6,10016,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:21 AM,18/lip/22 1:11 PM,19/lip/22 9:48 AM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 4.|Uruchomienie zadania nr 4.|
+|2.|Wykonanie polecenia z zadania nr 4.|Znalezienie dokładnie jednego defektu w zadaniu nr 4.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,18/lip/22 11:51 AM;62d14ea5c537f460d445f850;TestSession4.test;https://projektkoncowy102.atlassian.net/secure/attachment/10003/TestSession4.test,,,,,,,,,,,,,,,,,,,0|i0003j:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 3 - 1,PRJKT99-5,10015,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:21 AM,18/lip/22 1:11 PM,20/lip/22 7:51 AM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 3.|Uruchomienie zadania nr 3.|
+|2.|Wykonanie polecenia z zadania nr 3.|Znalezienie dokładnie jednego defektu w zadaniu nr 3.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,18/lip/22 11:38 AM;62d14ea5c537f460d445f850;TestSession3.test;https://projektkoncowy102.atlassian.net/secure/attachment/10002/TestSession3.test,,,,,,,,,,,,,,,,,,,0|i0003b:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 2 - 1,PRJKT99-4,10014,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:20 AM,18/lip/22 1:11 PM,19/lip/22 1:40 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 2.|Uruchomienie zadania nr 2.|
+|2.|Wykonanie polecenia z zadania nr 2.|Znalezienie dokładnie jednego defektu w zadaniu nr 2.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-3,,,18/lip/22 11:33 AM;62d14ea5c537f460d445f850;TestSession2.test;https://projektkoncowy102.atlassian.net/secure/attachment/10001/TestSession2.test,,,,,,,,,,,,,,,,,,,0|i00033:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+Ilość defektów w zadaniu 1 - 1,PRJKT99-3,10013,10012,Przypadek Testowy,Zamknięte,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:09 AM,18/lip/22 1:11 PM,21/lip/22 3:18 PM,,,0,"Warunki wejściowe: Poprawnie uruchomiona aplikacja MrBuggy 3 jako użytkownik niezalogowany.
+
+Środowisko testowe: System operacyjny Windows 11 Home(v. 21H2), program MrBuggy 3 (v. 1.2.0.146).
+
+||*L.p.*||*Kroki*||*Oczekiwany rezultat*||
+|1.|Kliknięcie w przycisk odpowiedzialny za uruchomienie zadania nr 1.|Uruchomienie zadania nr 1.|
+|2.|Wykonanie polecenia z zadania nr 1.|Znalezienie dokładnie jednego defektu w zadaniu nr 1.|",,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,PRJKT99-4,PRJKT99-5,PRJKT99-6,PRJKT99-7,PRJKT99-8,PRJKT99-9,PRJKT99-10,PRJKT99-11,PRJKT99-12,PRJKT99-13,PRJKT99-14,PRJKT99-15,PRJKT99-16,PRJKT99-17,PRJKT99-18,PRJKT99-19,PRJKT99-20,PRJKT99-21,PRJKT99-22,PRJKT99-23,PRJKT99-24,PRJKT99-25,PRJKT99-26,,,,18/lip/22 11:31 AM;62d14ea5c537f460d445f850;TestSession1.test;https://projektkoncowy102.atlassian.net/secure/attachment/10000/TestSession1.test,,,,,,,,,,,,,,,,,,,0|i0002v:,,,,,,,,,,,,,,,,Gotowe,10012,2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.
+2.1. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.,PRJKT99-2,10012,,Scenariusz Testowy,Blocked,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:08 AM,20/lip/22 8:24 AM,22/lip/22 11:16 AM,,,0,,,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-1,,,,,,,,,,,,,,,,,,,,,0|i0002n:,,,,,,,,,,,,,,,,W toku,,
+2. Sprawdzenie czy ilość defektów w zadaniach zawsze jest równa 1.,PRJKT99-1,10011,,Zestaw Testowy,Blocked,PRJKT99,Projekt99,software,DarekK,62d14ea5c537f460d445f850,,High,,,,DarekK,62d14ea5c537f460d445f850,DarekK,62d14ea5c537f460d445f850,18/lip/22 9:06 AM,20/lip/22 8:24 AM,21/lip/22 7:25 AM,,,0,,,DarekK,62d14ea5c537f460d445f850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRJKT99-2,,,,,,,,,,,,,,,,,,,,0|i0002f:,,,,,,,,,,,,,,,,W toku,,
